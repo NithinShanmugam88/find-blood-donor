@@ -26,7 +26,6 @@ import TinderCards from './TinderCards';
 import SwipeButtons from './SwipeButtons';
 import Chats from './Chats';
 import ChatScreen from './ChatScreen';
-import { render } from "react-dom";
 import {BrowserRouter as Router,Switch,Route} from "react-router-dom";
 //import {Link} from "react-router-dom";
 function App() {
