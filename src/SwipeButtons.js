@@ -23,7 +23,7 @@ function SwipeButtons() {
                 <ArrowForwardIosIcon fontSize = "large" />
             </IconButton>
             {/*<Link  to = '././https://nithinshanmugamv.github.io/aboutus/sepm/aboutus.html'>*/}
-                <a href = "https://nithinshanmugamv.github.io/aboutus/sepm/aboutus.html"> <IconButton className = "swipeButtons__info"><InfoIcon fontSize = "large"  /></IconButton></a>
+                <a href = "https://purple-mushroom-01b2eed10.azurestaticapps.net/"> <IconButton className = "swipeButtons__info"><InfoIcon fontSize = "large"  /></IconButton></a>
                
             {/*</Link>*/}
         </div>
