@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# FIND BLOOD DONOR
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a task given to complete "Future ready talent" internship
 
-## Available Scripts
+Azure Services Used:<br>
+Web App - Deployed Front End<br>
+Cosmos DB - Used "Azure Cosmos DB API for MongoDB" to store data<br>
+Static Web Apps - Used to deploy HTML about page<br>
 
-In the project directory, you can run:
+Industry: Health
 
-### `npm start`
+Project Title: Find a Blood Donor
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Problem Statement/Opportunity: <br>
+Blood Donations in India are conducted by organizations and hospitals through blood donation camps. Donors can also visit blood banks in hospitals to donate blood. Despite a huge population, the demand-supply gap for blood units persists in many healthcare facilities in the country. Not all the time patients get blood from blood banks. Patients who have diseases like cancer which requires a blood transfusion once every 3 to 6 months, are always rejected to get blood from blood banks. Presently there are no applications that can connect donors directly to blood recipients. This project aims to create a web-based system that has the ability to avoid intermediaries and connects donors directly to the recipient. It also offers an effective solution where connect blood donors with recipients, without any intermediary such as banks, for an efficient and seamless process.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Project Description: <br>
+According to a 2012 report by the World Health Organisation, only 9 million blood units are available annually, whereas the demand is 12 million units. There is a problem with the availability of needed blood types. Not all the time patients get blood from blood banks. Patients who have diseases like cancer which requires a blood transfusion once every 3 to 6 months, are always rejected to get blood from blood banks. So, when a person needs a certain blood group that is not available in the hospital, family members send messages through social media to those who can donate to them and this process takes longer and leaves the patient’s life in danger. Despite advances in technology, today's blood bank systems are running in a manual system. Besides this, it seems that there is a lack of proper documentation about donors. Also, blood in banks contaminates which becomes useless to patients. Although a few blood banks have their blood bank management system, still they cannot provide a facility to connect donors directly to recipients. This project aims to create a web-based system that has the ability to avoid intermediaries and connects donors directly to the recipient. It also offers an effective solution where connect blood donors with recipients, without any intermediary such as banks, for an efficient and seamless process.
 
-### `npm test`
+Primary Azure Technology: Web Apps, Azure Cosmos DB, Static Web Apps
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Other Azure Technologies: Visual Studio code
