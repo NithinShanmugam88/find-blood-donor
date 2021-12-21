@@ -2,6 +2,8 @@
 
 This project is a task given to complete "Future ready talent" internship
 
+<b>Warning<b>: This site takes almost one min to load as it is hosted in free f1 azure app service plan
+
 Azure Services Used:<br>
 Web App - Deployed Front End<br>
 Cosmos DB - Used "Azure Cosmos DB API for MongoDB" to store data<br>
