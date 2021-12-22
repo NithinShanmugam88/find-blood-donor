@@ -8,6 +8,10 @@ This project is a task given to complete "Future ready talent" internship
 Web App - Deployed Front End<br>
 Cosmos DB - Used "Azure Cosmos DB API for MongoDB" to store data<br>
 Static Web Apps - Used to deploy HTML about page<br>
+ <br>
+ 
+<!--![Resource Used Image](https://drive.google.com/file/d/1JUZyKfBZ4747zw_vJP_eFQBci_ELaWax/view?usp=sharing)-->
+![Resource Used Image](https://github.com/NithinShanmugam88/find-blood-donor/blob/main/src/images/All%20resources%20-%20Microsoft%20Azure%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%2022-12-2021%2010_46_02.png?raw=true)
 
 Link to Working Web App: https://find-blood-donor.azurewebsites.net
 
